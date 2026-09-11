@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="it">
 <head>
 <meta charset="UTF-8">
@@ -362,6 +362,11 @@
 <body>
 
 <div class="wrap">
+
+  <header class="hero">
+    <h1>Chi pulisce cosa, questa settimana?</h1>
+  </header>
+
   <section class="filter-section">
     <h2>Trova i tuoi turni</h2>
     <p class="filter-hint">Seleziona uno o più nomi: i compiti corrispondenti si illuminano in tutto il calendario.</p>
