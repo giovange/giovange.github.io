@@ -364,7 +364,7 @@
 <div class="wrap">
 
   <header class="hero">
-    <h1>Chi pulisce cosa, questa settimana?</h1>
+    <div class="legend" id="legend"></div>
   </header>
 
   <section class="filter-section">
