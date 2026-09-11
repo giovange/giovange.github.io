@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="it">
 <head>
 <meta charset="UTF-8">
@@ -362,14 +362,6 @@
 <body>
 
 <div class="wrap">
-
-  <header class="hero">
-    <h1>Chi pulisce cosa, questa settimana?</h1>
-    <p>Il calendario dei turni di casa: aspirapolvere, spazzatura, cucina e i due bagni. Ogni settimana i compiti ruotano da soli, così se qualcuno fa la cucina non deve pensare anche al resto.</p>
-    <p>I bagni restano assegnati ai gruppi reali &mdash; Lilly, Heidy e Cami da un lato, Leo e Gio dall'altro &mdash; ma chi se ne occupa cambia ogni settimana.</p>
-    <div class="legend" id="legend"></div>
-  </header>
-
   <section class="filter-section">
     <h2>Trova i tuoi turni</h2>
     <p class="filter-hint">Seleziona uno o più nomi: i compiti corrispondenti si illuminano in tutto il calendario.</p>
